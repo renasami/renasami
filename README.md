@@ -1,3 +1,10 @@
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=renasami&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/renasami/)
+
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renasami&theme=tokyonight&hide=css,html&count_private=true)](https://github.com/renasami/)
+
+
+
+
 I am AoyamaGakuinUniversity's student .<br>
 Prease contact me drrr0502@gmail.com .
 <!---
