@@ -2,7 +2,7 @@
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renasami&theme=tokyonight&hide=css,html&count_private=true)](https://github.com/renasami/)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=renasami)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 I am AoyamaGakuinUniversity's student .<br>
