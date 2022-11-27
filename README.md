@@ -8,7 +8,7 @@
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=renasami&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renasami)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
 I am AoyamaGakuinUniversity's student .<br>
