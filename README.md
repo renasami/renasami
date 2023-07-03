@@ -1,8 +1,9 @@
 [![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renasami&theme=dracula)](https://github.com/renasami)
 
 
+<!--
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=renasami&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/renasami/)
-
+--!>
 <!---
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renasami&theme=tokyonight&hide=css,html&count_private=true)](https://github.com/renasami/)
 --->
