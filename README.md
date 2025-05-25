@@ -13,8 +13,8 @@
 
 #  👋 Hi, I’m Ren Asami
 
-* 💼 **Software Engineer & Product Owner** (B2B SaaS)  
-* 🎓 Graduated from Aoyama Gakuin University, SSI Program  
+* 💼 I'm japanese **Software Engineer & Product Owner** (B2B SaaS)  
+* 🎓 Graduated from Aoyama Gakuin University, SSI.  
 * 🔭 I’m currently working on cloud-native architectures in a DDD environment using React, Kotlin, Go, and more.
 * 📫 How to reach me: [drrr0502@gmail.com](mailto:drrr0502@gmail.com) or [linkedin](https://www.linkedin.com/in/ren-a99816193/)
 
